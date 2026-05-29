@@ -21,8 +21,8 @@ To implement the Factory Design Pattern to send different types of notifications
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: PRASANNA R
-RegisterNumber: 212222040120
+Developed by: KAMAL RAJ A
+RegisterNumber: 212223040082
 */
 ```
 
